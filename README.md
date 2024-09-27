@@ -1,4 +1,4 @@
-# API Testing Project for Petstore
+# API Testing Challenge Project for Petstore
 
 ## Description
 This project implements a set of automated tests for the Petstore API using Rest Assured with Serenity BDD and Cucumber. It is designed to demonstrate best practices in RESTful API testing and follows industry-recommended design patterns.
@@ -69,16 +69,3 @@ After running the tests, you can find the detailed Serenity report at:
 ```
 target/site/serenity/index.html
 ```
-
-## Contributing
-If you wish to contribute to this project, please:
-1. Fork the repository
-2. Create a new branch for your feature
-3. Make your changes and commit them
-4. Submit a pull request
-
-## Support
-If you encounter any issues or have any questions, please open an issue in the GitHub repository.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
